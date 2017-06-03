@@ -1,0 +1,27 @@
+{
+  "name": "angular",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "rakib <rakibulbasharrakib@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "latest",
+    "angular-route": "latest",
+    "angular-cookies": "latest",
+    "bootstrap": "latest",
+    "bootstrap-material-design": "latest",
+    "jquery": "latest",
+    "ngDialog": "latest",
+    "update": "^0.7.4"
+  }
+}

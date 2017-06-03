@@ -1,0 +1,15 @@
+Django
+dj-database-url
+dj-static
+django-appconf
+django-compressor
+django-debug-toolbar
+django-toolbelt
+djangorestframework
+drf-nested-routers
+gunicorn
+psycopg2
+six
+sqlparse
+static3
+wsgiref
